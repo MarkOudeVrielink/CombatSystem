@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\HacknSlashSystem.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{63C62091-38E8-4FEF-A50B-46F792CEBF62}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\HacknSlashSystem.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\HacknSlashSystemEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{3D5A7B3C-B3BB-4A91-99BA-5258AAF91717}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\HacknSlashSystem">
+			<UniqueIdentifier>{F6D6B7CF-35C3-4ED8-AA66-4F3C1E9F651B}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\HacknSlashSystem\HacknSlashSystem.Build.cs">
+			<Filter>Source\HacknSlashSystem</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\HacknSlashSystem\HacknSlashSystem.cpp">
+			<Filter>Source\HacknSlashSystem</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\HacknSlashSystem\HacknSlashSystem.h">
+			<Filter>Source\HacknSlashSystem</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\HacknSlashSystem\HacknSlashSystemGameModeBase.cpp">
+			<Filter>Source\HacknSlashSystem</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\HacknSlashSystem\HacknSlashSystemGameModeBase.h">
+			<Filter>Source\HacknSlashSystem</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

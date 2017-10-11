@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HacknSlashSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\UnrealProjects\MinorSkilled\Prototype\HacknSlashSystem\Intermediate\Build\Win64\UE4Editor\Development\HacknSlashSystem\HacknSlashSystem.cpp.obj"
+"D:\UnrealProjects\MinorSkilled\Prototype\HacknSlashSystem\Intermediate\Build\Win64\UE4Editor\Development\HacknSlashSystem\HacknSlashSystemGameModeBase.cpp.obj"
+"D:\UnrealProjects\MinorSkilled\Prototype\HacknSlashSystem\Intermediate\Build\Win64\UE4Editor\Development\HacknSlashSystem\HacknSlashSystem.init.gen.cpp.obj"
+"D:\UnrealProjects\MinorSkilled\Prototype\HacknSlashSystem\Intermediate\Build\Win64\UE4Editor\Development\HacknSlashSystem\HacknSlashSystemGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\HacknSlashSystem\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\UnrealProjects\MinorSkilled\Prototype\HacknSlashSystem\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HacknSlashSystem.lib"
